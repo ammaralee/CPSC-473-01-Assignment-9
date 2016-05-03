@@ -1,0 +1,28 @@
+{
+  "name": "homework-9",
+  "version": "1.0.0",
+  "description": "Homework Assignment 9 Part 2",
+  "main": "server.js",
+  "dependencies": {
+    "mongoose": "^3.6.20",
+    "node": "^0.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ammaralee/CPSC-473-01-Assignment-9.git"
+  },
+  "keywords": [
+    "Konckout.js"
+  ],
+  "author": "Ammar Yasir Ali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ammaralee/CPSC-473-01-Assignment-9/issues"
+  },
+  "homepage": "https://github.com/ammaralee/CPSC-473-01-Assignment-9#readme"
+}
